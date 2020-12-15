@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfcforgingtip",
+  "name": "TFCForgingTip Mod",
+  "description": "TFCForgingTip Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.Is_GK.com",
+  "updateUrl": "",
+  "authorList": ["Is_GK"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
